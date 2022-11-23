@@ -34,7 +34,7 @@
 - 代码引用于
 
 ```
-git clone https://github.com/ZhanYu28/vue3-management-template.git
+https://github.com/ZhanYu28/vue3-management-template
 ```
 
 - 安装依赖
