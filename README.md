@@ -31,7 +31,7 @@
 
 ## 项目使用
 
-- 代码引用于
+- 代码引用于大白
 
 ```
 https://github.com/ZhanYu28/vue3-management-template
