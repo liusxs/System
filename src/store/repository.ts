@@ -5,7 +5,7 @@ import useDate from "@/utils/useDate";
 export const useRepositoryStore = defineStore('repository',{
     state:()=>({
         github:{
-            address:"",
+            address:"https://github.com/liusxs/System",
             data:<{}[]>[]
         },
         gitee:{
