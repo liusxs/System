@@ -25,6 +25,16 @@ export const useTodoStore =  defineStore('todo',{
                             time:'10:00',
                             event:'写bug'
                         },
+                        {
+                            id:'1',
+                            time:'10:00',
+                            event:'写bug'
+                        },
+                        {
+                            id:'1',
+                            time:'10:00',
+                            event:'写bug'
+                        },
                     ]
 
                 },
@@ -41,6 +51,16 @@ export const useTodoStore =  defineStore('todo',{
                             id:'1',
                             time:'10:00',
                             event:'写屎山代码'
+                        },
+                        {
+                            id:'2',
+                            time:'11:00',
+                            event:'又写bug'
+                        },
+                        {
+                            id:'2',
+                            time:'11:00',
+                            event:'又写bug'
                         },
                         {
                             id:'2',
@@ -74,7 +94,19 @@ export const useTodoStore =  defineStore('todo',{
                     date:'2022-09-10',
                     time:'10:00',
                     event:'修修bug',
-                }
+                },
+                {
+                    id:'3',
+                    date:'2022-09-10',
+                    time:'10:00',
+                    event:'修修bug',
+                },
+                {
+                    id:'3',
+                    date:'2022-09-10',
+                    time:'10:00',
+                    event:'修修bug',
+                },
             ]
         }
     ),
