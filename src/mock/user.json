@@ -2,12 +2,12 @@
     "userToken":[
         {
             "token":"AshgytoHgaGTiahfkljg",
-            "userId":"dabai",
+            "userId":"liuliu",
             "password":"123456"
         },
         {
             "token":"HasdfPIasdfASHasdfDF",
-            "userId":"xiaobai",
+            "userId":"xiaoliu",
             "password":"000000"
         },
         {
@@ -18,16 +18,16 @@
     ],
     "userInfo":[
         {
-            "userName":"大白",
+            "userName":"liuliu",
             "role":"管理员",
             "portrait":"/user-portrait/dabai.jpg",
-            "userId":"dabai"
+            "userId":"liuliu"
         },
         {
-            "userName":"小白",
+            "userName":"xiaoliu",
             "role":"会员",
             "portrait":"/user-portrait/xiaobai.jpg",
-            "userId":"xiaobai"
+            "userId":"xiaoliu"
         },
         {
             "userName":"测试",
