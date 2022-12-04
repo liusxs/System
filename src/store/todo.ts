@@ -57,11 +57,6 @@ export const useTodoStore =  defineStore('todo',{
                             time:'11:00',
                             event:'又写bug'
                         },
-                        {
-                            id:'2',
-                            time:'11:00',
-                            event:'又写bug'
-                        },
                     ]
                 }
             ],
@@ -83,12 +78,6 @@ export const useTodoStore =  defineStore('todo',{
                     date:'2022-09-09',
                     time:'09:00',
                     event:'找上次的bug',
-                },
-                {
-                    id:'3',
-                    date:'2022-09-10',
-                    time:'10:00',
-                    event:'修修bug',
                 },
                 {
                     id:'3',
