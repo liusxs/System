@@ -30,11 +30,6 @@ export const useTodoStore =  defineStore('todo',{
                             time:'10:00',
                             event:'写bug'
                         },
-                        {
-                            id:'1',
-                            time:'10:00',
-                            event:'写bug'
-                        },
                     ]
 
                 },
