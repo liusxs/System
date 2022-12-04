@@ -1,7 +1,7 @@
 
 ## 简介
 
-该后台管理系统使用了最新的`vue3` `pinia` `Element-Plus` `TypeScript` `echarts`等技术开发，很多东西都是按照自己想法用原生js实现，作者没怎么测试，可能有些许bug，如果大家发现可以留言，互相学习！
+该后台管理系统使用了最新的`vue3` `pinia` `Element-Plus` `TypeScript` `echarts`等技术开发，可能有些许bug，如果大家发现可以留言，互相学习！
 
 
 ## 项目功能
